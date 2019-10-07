@@ -15,7 +15,8 @@
  *  - valida el digito de control recibido en los demas casos
  *  - devuelve una cadena vacia cuando el NIF no pasa la validacion
  * 
- * MIT License, 2019
+ * MIT License (c) 2019
+ * This software is supplied as is, with no warranty whatsoever
  * https://github.com/karletes/tera-udf/blob/master/nifvalido.c
  */
 
