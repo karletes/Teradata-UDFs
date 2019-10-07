@@ -1,8 +1,8 @@
-# tera-udf
+# Teradata UDFs
 
-Collection of useful Teradata UDFs.
+Collection of useful user-defined functions (UDF) to use in Teradata.
 
-## NIFVALIDO
+### NIFVALIDO
 
 This UDF verifies and normalizes Spanish fiscal ID numbers.
 
